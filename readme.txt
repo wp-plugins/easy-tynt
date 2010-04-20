@@ -11,7 +11,7 @@ Easily setup Tynt Insight for your Blog. Leverage copy/paste, improve traffic an
 
 Easily install and configure Tynt Insight for your WordPress Blog. Leverage the benefit of copy/paste, learn what is being copied off your blog, and learn how to leverage this behavior into more traffic, higher search rank and more. See [www.tynt.com](http://www.tynt.com) for information on Tynt Insight.
 
-If you like Easy Tynt, please visit it on [WordPress.org's Plugin Area](http://wordpress.org/extend/plugins/easy-tynt/stats/) and rate it.
+If you like Easy Tynt, please visit it on [WordPress.org's Plugin Area](http://wordpress.org/extend/plugins/easy-tynt/) and rate it.
 
 Want to send your feedback or error reports about Easy Tynt? Fill out [this form](http://www.scottswezey.com/about).
 
@@ -22,7 +22,7 @@ Manual Installation:
 1. Upload `easy-tynt.php` to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 3. Click on the Easy Tynt settings link in your WordPress admin to configure Easy Tynt. Easy Tynt will not work until this is completed.
-4. Visit www.tynt.com and log in or register a new account.
+4. Visit www.tynt.com and [log in](https://tcr1.tynt.com/account/log_in) or register a new account.
 5. Chose the options you are interested in. I suggest looking at the Attribution Link, Address bar, and possibly the Link Sponsorship options.
 6. Once everything is setup to your satisfaction, copy the provided "YOUR SCRIPT" code into the Easy Tynt settings in WordPress. Hit "Update Options" and you are done!
 
@@ -44,8 +44,11 @@ Fill out [this form](http://www.scottswezey.com/about) on my website.
 
 == Changelog ==
 
+= 0.2.2 =
+* Various cleanup on the readme.txt file.
+
 = 0.2 =
-* Tynt Insight will now be installed by copy pasting the code provided by Tynt Insight's "Link Setup" Page, located at [http://tcr130.tynt.com/script/account_script](http://tcr130.tynt.com/script/account_script)
+* Tynt Insight will now be installed by copy pasting the code provided by Tynt Insight's "Link Setup" Page, located at [https://tcr1.tynt.com/account/log_in](https://tcr1.tynt.com/account/log_in)
 * This will add support for all of Tynt Insight's features without the need for extensive time remaking their interface. It should also be easier for new users to get started with.
 * Easy Tynt settings will no longer be erased when deactivating or upgrading the plugin. However, you must now use the WordPress plugin delete link to fully uninstall Easy Tynt.
 
