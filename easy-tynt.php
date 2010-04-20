@@ -35,7 +35,6 @@ function ss_easy_tynt_activate() {
 }
 
 function ss_easy_tynt_print_js_tag() {
-	//my user code: bHBhn6s2mr34i9adbiUt4I
 	$ss_easy_tynt_script = ss_easy_tynt_get_script();
 	if (!empty($ss_easy_tynt_script)) {
 		echo '<!-- Start Easy Tynt -->';
