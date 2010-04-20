@@ -1,6 +1,5 @@
 === Easy Tynt ===
 Contributors: ScottSwezey
-Donate link: http://www.scottswezey.com/wp-plugins/
 Tags: tynt, tynt insight, copy, paste, seo
 Requires at least: 2.9.2
 Tested up to: 2.9.2
@@ -34,14 +33,6 @@ To remove Easy Tynt:
 = What is Tynt Insight? =
 
 Visit [www.tynt.com](http://www.tynt.com) for information Tynt Insight.
-
-== Screenshots ==
-
-Coming Soon. =)
-
-1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
-the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1.png` (or jpg, jpeg, gif)
-2. This is the second screen shot
 
 == Changelog ==
 
