@@ -11,6 +11,10 @@ Easily setup Tynt Insight for your Blog. Leverage copy/paste, improve traffic an
 
 Easily install and configure Tynt Insight for your WordPress Blog. Leverage the benefit of copy/paste, learn what is being copied off your blog, and learn how to leverage this behavior into more traffic, higher search rank and more. See [www.tynt.com](http://www.tynt.com) for information on Tynt Insight.
 
+If you like Easy Tynt, please visit it on [WordPress.org's Plugin Area](http://wordpress.org/extend/plugins/easy-tynt/stats/) and rate it.
+
+Want to send your feedback or error reports about Easy Tynt? Fill out [this form](http://www.scottswezey.com/about).
+
 == Installation ==
 
 Manual Installation:
