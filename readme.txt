@@ -38,6 +38,10 @@ To remove Easy Tynt:
 
 Visit [www.tynt.com](http://www.tynt.com) for information Tynt Insight.
 
+= How can I submit feedback or error reports? =
+
+Fill out [this form](http://www.scottswezey.com/about) on my website.
+
 == Changelog ==
 
 = 0.2 =
