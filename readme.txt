@@ -57,5 +57,15 @@ Fill out [this form](http://www.scottswezey.com/about) on my website.
 
 == Upgrade Notice ==
 
+= 0.2.2 =
+Some documentation in the readme file was not correct. Updating to this version will resolve these problems.
+
 = 0.2 =
 This is the first public release.
+
+== Planned Features and Chances ==
+* Adding the ability to disable all Tynt Insight code on specific pages, on specific posts, or when a specific post is shown (in a list or otherwise).
+* Adding support for each author having their own Tynt Insight tracker code setup and used on pages/posts they authored.
+* Incorporating user feedback, as always.
+* Improvements to the administration and settings area.
+* Screencast documentation on setup, installing, uninstalling and using Easy Tynt for WordPress.
