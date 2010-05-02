@@ -13,7 +13,7 @@ Easily install and configure Tynt Insight for your WordPress Blog. Leverage the 
 
 If you like Easy Tynt, please visit it on [WordPress.org's Plugin Area](http://wordpress.org/extend/plugins/easy-tynt/) and rate it.
 
-Want to send your feedback or error reports about Easy Tynt? Fill out [this form](http://www.scottswezey.com/about).
+Want to send your feedback or error reports about Easy Tynt? Fill out [this form](http://www.scottswezey.com/wp-plugins/easy-tynt/).
 
 == Installation ==
 
@@ -40,7 +40,7 @@ Visit [www.tynt.com](http://www.tynt.com) for information Tynt Insight.
 
 = How can I submit feedback or error reports? =
 
-Fill out [this form](http://www.scottswezey.com/about) on my website.
+Fill out [the form](http://www.scottswezey.com/wp-plugins/easy-tynt/) on this page.
 
 == Changelog ==
 
