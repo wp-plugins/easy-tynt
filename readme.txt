@@ -3,7 +3,7 @@ Contributors: ScottSwezey
 Tags: tynt, tynt insight, copy, paste, seo
 Requires at least: 2.9.2
 Tested up to: 2.9.2
-Stable tag: 0.2.1
+Stable tag: 0.2.2
 
 Easily setup Tynt Insight for your Blog. Leverage copy/paste, improve traffic and search rank. See www.tynt.com for information on Tynt Insight.
 
@@ -13,7 +13,7 @@ Easily install and configure Tynt Insight for your WordPress Blog. Leverage the 
 
 If you like Easy Tynt, please visit it on [WordPress.org's Plugin Area](http://wordpress.org/extend/plugins/easy-tynt/) and rate it.
 
-Want to send your feedback or error reports about Easy Tynt? Fill out [this form](http://www.scottswezey.com/about).
+Want to send your feedback or error reports about Easy Tynt? Fill out [this form](http://www.scottswezey.com/wp-plugins/easy-tynt/).
 
 == Installation ==
 
@@ -40,7 +40,7 @@ Visit [www.tynt.com](http://www.tynt.com) for information Tynt Insight.
 
 = How can I submit feedback or error reports? =
 
-Fill out [this form](http://www.scottswezey.com/about) on my website.
+Fill out [the form](http://www.scottswezey.com/wp-plugins/easy-tynt/) on this page.
 
 == Changelog ==
 
@@ -57,5 +57,15 @@ Fill out [this form](http://www.scottswezey.com/about) on my website.
 
 == Upgrade Notice ==
 
+= 0.2.2 =
+Some documentation in the readme file was not correct. Updating to this version will resolve these problems.
+
 = 0.2 =
 This is the first public release.
+
+== Planned Features and Chances ==
+* Adding the ability to disable all Tynt Insight code on specific pages, on specific posts, or when a specific post is shown (in a list or otherwise).
+* Adding support for each author having their own Tynt Insight tracker code setup and used on pages/posts they authored.
+* Incorporating user feedback, as always.
+* Improvements to the administration and settings area.
+* Screencast documentation on setup, installing, uninstalling and using Easy Tynt for WordPress.
