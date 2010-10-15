@@ -119,7 +119,7 @@ function ss_easy_tynt_uninstall() {
 //register actions and hooks
 register_activation_hook(__FILE__, 'ss_easy_tynt_activate');
 
-add_action('wp_head', 'ss_easy_tynt_print_js_tag', 1000, 0);
+add_action('wp_head', 'ss_easy_tynt_print_js_tag', 1, 0);
 
 add_action('admin_menu', 'ss_easy_tynt_admin_menu');
 
