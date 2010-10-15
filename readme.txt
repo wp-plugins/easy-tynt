@@ -3,7 +3,7 @@ Contributors: ScottSwezey
 Tags: tynt, tynt insight, copy, paste, seo
 Requires at least: 2.9.2
 Tested up to: 3.0.1
-Stable tag: 0.2.3
+Stable tag: 0.2.4
 
 Easily setup Tynt Insight for your Blog. Leverage copy/paste, improve traffic and search rank. See www.tynt.com for information on Tynt Insight.
 
@@ -43,6 +43,10 @@ Visit [www.tynt.com](http://www.tynt.com) for information Tynt Insight.
 Fill out [the form](http://www.scottswezey.com/wp-plugins/easy-tynt/) on this page.
 
 == Changelog ==
+
+= 0.2.4 =
+* Minor tweaks for improved compatability with the latest changes to Tynt Insight aysnc code.
+* Prior versions will continue to work just fine, but this change may lead to slight performance improvements, especially on large pages.
 
 = 0.2.3 =
 * Updated to show compatibility with wordpress 3.0.1+

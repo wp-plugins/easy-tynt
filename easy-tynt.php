@@ -3,7 +3,7 @@
 Plugin Name: Easy Tynt
 Plugin URI: http://www.ScottSwezey.com/wp-plugins/easy-tynt
 Description: Easily install and configure Tynt Insight for your WordPress Blog. Leverage the benefit of copy/paste, learn what is being copied off your blog, and learn how to leverage this behavior into more traffic, higher search rank and more. See <a href="http://www.tynt.com" target="_blank">www.tynt.com</a> for information on Tynt Insight.
-Version: 0.2.3
+Version: 0.2.4
 Author: Scott Swezey
 Author URI: http://www.ScottSwezey.com/
 License: GPL2
@@ -38,8 +38,10 @@ function ss_easy_tynt_print_js_tag() {
 	$ss_easy_tynt_script = ss_easy_tynt_get_script();
 	if (!empty($ss_easy_tynt_script)) {
 		echo '<!-- Start Easy Tynt -->';
+		echo "\n";
 		echo $ss_easy_tynt_script;
 		echo '<!-- End Easy Tynt -->';
+		echo "\n";
 	}
 }
 
@@ -117,7 +119,7 @@ function ss_easy_tynt_uninstall() {
 //register actions and hooks
 register_activation_hook(__FILE__, 'ss_easy_tynt_activate');
 
-add_action('wp_footer', 'ss_easy_tynt_print_js_tag', 1000, 0);
+add_action('wp_head', 'ss_easy_tynt_print_js_tag', 1000, 0);
 
 add_action('admin_menu', 'ss_easy_tynt_admin_menu');
 
