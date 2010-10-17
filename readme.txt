@@ -3,7 +3,7 @@ Contributors: ScottSwezey
 Tags: tynt, tynt insight, copy, paste, seo
 Requires at least: 2.9.2
 Tested up to: 3.0.1
-Stable tag: 0.2.4
+Stable tag: 0.2.5
 
 Easily setup Tynt Insight for your Blog. Leverage copy/paste, improve traffic and search rank. See www.tynt.com for information on Tynt Insight.
 
