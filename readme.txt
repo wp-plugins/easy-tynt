@@ -44,6 +44,10 @@ Fill out [the form](http://www.scottswezey.com/wp-plugins/easy-tynt/) on this pa
 
 == Changelog ==
 
+= 0.2.5 =
+* I am hearing reports that the latest update for Easy Tynt may have issues with old versions of the Tynt Insight code. If you have found that you updated and thing suddenly stopped working then I would suggest getting the latest Tynt code from the Tynt site.
+* I will continue to monitor the situation for problems. If updating your Tynt code does not resolve your problems please [contact me](http://www.scottswezey.com/wp-plugins/easy-tynt/) and give me the URL to your site as well as any errors you got.
+
 = 0.2.4 =
 * Minor tweaks for improved compatability with the latest changes to Tynt Insight aysnc code.
 * Prior versions will continue to work just fine, but this change may lead to slight performance improvements, especially on large pages.
@@ -70,7 +74,7 @@ Some documentation in the readme file was not correct. Updating to this version 
 = 0.2 =
 This is the first public release.
 
-== Planned Features and Chances ==
+== Planned Features and Changes ==
 * Adding the ability to disable all Tynt Insight code on specific pages, on specific posts, or when a specific post is shown (in a list or otherwise).
 * Adding support for each author having their own Tynt Insight tracker code setup and used on pages/posts they authored.
 * Incorporating user feedback, as always.
